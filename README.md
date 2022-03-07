@@ -1,5 +1,5 @@
 # Material Table & Material UI
-This is a React component created by implementing Material Table and Material UI with an inline form.
+This is a React styled component created by implementing Material Table and Material UI with an inline form.
 ![alt text](https://repository-images.githubusercontent.com/467251536/b4dc8679-f67e-4c6a-82b0-8ce6105d19a0)
 
 
